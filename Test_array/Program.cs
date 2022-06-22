@@ -10,4 +10,4 @@ Console.WriteLine("Вывод массива");
 Console.WriteLine(String.Join("  " , Array));
 Console.WriteLine($"Максимальное число массива:  {Array.Max()}");
 Console.WriteLine($"Максимальное число массива:  {Array.Min()}");
-Привет
+
